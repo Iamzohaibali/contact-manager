@@ -55,11 +55,6 @@ Restore Backup: Select a backup file to restore previous contact data.
 
 
 
-Sample Data
-
-A sample contacts.json and sample.csv are provided in the data/ folder for testing.
-To use sample data, place these files in the same directory as contact_manager.py or select them via the file dialog.
-
 Development
 
 Code Structure:
@@ -67,24 +62,12 @@ ContactManager: Backend class for managing contacts.
 ContactManagerGUI: Tkinter-based GUI class.
 
 
-Testing: Unit tests are available in the tests/ folder (optional, see below).
 Contributing: Fork the repository, make changes, and submit a pull request. Follow the coding style in the existing code.
 
-Testing
-To run unit tests (if included):
-python -m unittest discover tests
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contributing
 
-Fork the repository.
-Create a new branch (git checkout -b feature/your-feature).
-Commit your changes (git commit -m "Add your feature").
-Push to the branch (git push origin feature/your-feature).
-Open a pull request.
 
-Contact
-For issues or suggestions, open an issue on GitHub or contact [Your Name] via [Your Email or LinkedIn].
-
-Built with ❤️ by [Your Name]
+Built with ❤️ by Mr Zohaib
